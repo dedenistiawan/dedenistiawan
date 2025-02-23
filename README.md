@@ -14,7 +14,6 @@ Additionally, I am also a <b><i>freelance</i></b>, available for hire to work on
 </p>
 <p align="left">And when I am not working, I enjoy watching movies and exploring data science innovations!</p>
 <hr>
-<p align="center">
  </p>
 
 <p align="center">
