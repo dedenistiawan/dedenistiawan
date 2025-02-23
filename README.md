@@ -1,21 +1,20 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dedenistiawan&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
-
-# 👋 Hi there! I'm Deden Istiawan
-
-I'm a Lecturer and Data Analyst passionate about Data Science and Statistical Analysis, turning raw data into valuable insights. Always exploring new analytical techniques, I love working with R, Python, and visualization tools. Check out my repos and let's collaborate! 😎🔥
- 
-[![image](https://github.com/dedenistiawan/dedenistiawan/blob/main/dino.gif)](https://dedenistiawan.vercel.app/)
-
-<p align="left">
-<a href="https://github.com/dedenistiawan">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dedenistiawan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dedenistiawan&layout=compact&theme=algolia"/>
-</a>
+<h1 align="center">
+  Hi 👋,
+  </br>I am Deden Istiawan!
+</h1>
+<p align="center">
+  <a href="https://dedenistiawan.netlify.app/"><img alt="Personal Website of Deden Istiawan" src="https://shields.io/badge/Personal-Website-333" /></a>
+  <a href="https://github.com/sponsors/dedenistiawan"><img alt="GitHub Sponsor profile of Deden Istiawan" src="https://shields.io/badge/GitHub-Sponsor-333?logo=githubsponsors&logoColor=white" /></a>
+  </br>
+  
 </p>
-
-<br>
-<div align="left">
-  <a href="https://dedenistiawan.vercel.app/">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dedenistiawan&theme=github-compact&radius=16" height="auto" alt="by dedenistiawan"/>
-  </a>
-</div>
+<p align="center">
+  I am currently working as a Lecturer and Data Analyst, with a strong expertise in Data Mining and Statistical Analysis, <br>working on clustering, predictive modeling, and data visualization.<br> Based in Semarang, Indonesia.<br>
+Additionally, I am also a <b><i>freelance</i></b>, available for hire to work on <b><i>R and Quarto related projects</i></b>.
+</p>
+<p align="center">And when I am not working, I enjoy watching movies and exploring data science innovations!</p>
+<hr>
+<p align="center">
+  <a href="https://github.com/dedenistiawan"><img alt="Deden Istiawan GitHub statistic card using 'github-readme-stats' app by anuraghazra" src="https://github-readme-stats.vercel.app/api?username=dedenistiawan&theme=github_dark_dimmed&show_icons=true&count_private=true" /></a>
+  <a href="https://examregistration.github.com/certification/GHF"><img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations badge image. Certification. Foundational level. Issued by GitHub" width="200" height="200" /></a>
+</p>
