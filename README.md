@@ -15,8 +15,7 @@ Additionally, I am also a <b><i>freelance</i></b>, available for hire to work on
 <p align="center">And when I am not working, I enjoy watching movies and exploring data science innovations!</p>
 <hr>
 <p align="center">
-  <a href="https://examregistration.github.com/certification/GHF"><img src="https://images.credly.com/size/680x680/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations badge image. Certification. Foundational level. Issued by GitHub" width="200" height="200" /></a>
-</p>
+ </p>
 
 <p align="center">
 <a href="https://github.com/dedenistiawan">
