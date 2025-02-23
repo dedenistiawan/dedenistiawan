@@ -1,35 +1,21 @@
-<!-- <div align="left">
-  <img height="250" src="https://media.discordapp.net/attachments/1188070985484738670/1198254640274350140/ImgWeb.png?ex=65be3c98&is=65abc798&hm=1b8c29997c67f4d4a563fb3d673d6103b4ca42855ebfa4529380db1b04d718b3&=&format=webp&quality=lossless&width=1315&height=431"  />
-</div> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dedenistiawan&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-###
+# 👋 Hi there! I'm Deden Istiawan
 
-<h2 align="left">Hi 👋! My name is Deden Istiawan and I'm a Lecturer and Data Analyst</h2>
+I'm a Lecturer and Data Analyst passionate about Data Science and Statistical Analysis, turning raw data into valuable insights. Always exploring new analytical techniques, I love working with R, Python, and visualization tools. Check out my repos and let's collaborate! 😎🔥
+ 
+[![image](https://github.com/dedenistiawan/dedenistiawan/blob/main/dino.gif)](https://dedenistiawan.vercel.app/)
 
-###
+<p align="left">
+<a href="https://github.com/dedenistiawan">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dedenistiawan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dedenistiawan&layout=compact&theme=algolia"/>
+</a>
+</p>
 
+<br>
 <div align="left">
- <!--   <img src="https://github-readme-stats.vercel.app/api?username=EkiZR&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dedenistiawan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>  
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
+  <a href="https://dedenistiawan.vercel.app/">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dedenistiawan&theme=github-compact&radius=16" height="auto" alt="by dedenistiawan"/>
+  </a>
 </div>
-
-<br clear="both">
-
-###
