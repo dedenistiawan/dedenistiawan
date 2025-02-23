@@ -16,7 +16,7 @@ Additionally, I am also a <b><i>freelance</i></b>, available for hire to work on
 <hr>
  </p>
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/dedenistiawan">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dedenistiawan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dedenistiawan&layout=compact&theme=algolia"/>
