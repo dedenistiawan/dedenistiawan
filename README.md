@@ -8,15 +8,15 @@
   </br>
   
 </p>
-<p align="left">
+<p align="center">
   I am currently working as a Lecturer and Data Analyst, with a strong expertise in Data Mining and Statistical Analysis, <br>working on clustering, predictive modeling, and data visualization.<br> Based in Semarang, Indonesia.<br>
 Additionally, I am also a <b><i>freelance</i></b>, available for hire to work on <b><i>R and Quarto related projects</i></b>.
 </p>
-<p align="left">And when I am not working, I enjoy watching movies and exploring data science innovations!</p>
+<p align="center">And when I am not working, I enjoy watching movies and exploring data science innovations!</p>
 <hr>
  </p>
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/dedenistiawan">
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dedenistiawan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dedenistiawan&layout=compact&theme=algolia"/>
