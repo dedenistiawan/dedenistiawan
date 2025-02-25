@@ -9,7 +9,7 @@
   
 </p>
 <p align="center">
-  I am currently working as a Lecturer and Data Analyst, with a strong expertise in Data Mining and Statistical Analysis, <br>working on clustering, predictive modeling, and data visualization.<br> Based in Semarang, Indonesia.<br>
+  I am currently working as a Lecturer and Data Analyst, with a expertise in Data Mining and Statistical Analysis, <br>working on clustering, predictive modeling, and data visualization.<br> Based in Semarang, Indonesia.<br>
 Additionally, I am also a <b><i>freelance</i></b>, available for hire to work on <b><i>R and Quarto related projects</i></b>.
 </p>
 <p align="center">And when I am not working, I enjoy watching movies and exploring data science innovations!</p>
